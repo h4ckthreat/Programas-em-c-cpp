@@ -1,4 +1,4 @@
-# <i> Oi, eu sou Jadson </i>👨🏻‍💻<i> - @hackthreat</i> ☣️
+# <i> Programação em linguagem C/C++. </i>👨🏻‍💻
 
 <h4 align="center">
  
