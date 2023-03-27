@@ -1,6 +1,6 @@
 # <i> Programação em linguagem C/C++. </i>👨🏻‍💻
 
-<h2 align="center">
+<h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackthreat/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hackthreat/)
@@ -10,7 +10,7 @@
 [![HackerOne Badge](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/h4ckthreat)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hackthreat)
  
-</h2>
+</h4>
 
 <ul>
         <li>
