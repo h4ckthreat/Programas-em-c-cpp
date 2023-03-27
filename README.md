@@ -17,6 +17,6 @@
           <a href="https://github.com/hackthreat/Campo-Minado"><i>Campo Minado.</i></a>
         </li>
         <li>
-          <a href="https://github.com/hackthreat/Programas-em-c-cpp/tree/main/Campo%20Minado"><i>Crazy Cars.</i></a>
+          <a href="https://github.com/hackthreat/Crazy-Cars"><i>Crazy Cars.</i></a>
         </li>
 </ul>
