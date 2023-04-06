@@ -25,7 +25,7 @@
           <a href="https://github.com/hackthreat/gerador-de-dados"><i>Gerador de dados (CPF, CNPJ, TITULO ELEITORAL).</i></a>
         </li>
         <li>
-          <a href=""><i>Jogo da velha com IA</i></a>
+          <a href=""><i>Jogo da velha com IA.</i></a>
         </li>
 </ul>
 
