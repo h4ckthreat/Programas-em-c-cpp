@@ -1,4 +1,4 @@
-# <i> Programas em linguagem C/C++. </i>👨🏻‍💻
+# <i> Softwares escritos em linguagem C/C++ </i>👨🏻‍💻
 
 <h4 align="center">
 
